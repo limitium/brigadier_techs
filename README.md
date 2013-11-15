@@ -15,7 +15,8 @@
 # Queue backend
 ## RabbitMQ
 * ruby
- + bunny
+ + amqp
+ + mongo
  + sequeal
  + httparty
 
@@ -23,4 +24,10 @@
 ## Nodejs
 * javascript
  + connect middleware
- + sequelize
+ + mongo
+
+# CDN
+## Nodejs
+* javascript
+ + connect middleware
+ 
